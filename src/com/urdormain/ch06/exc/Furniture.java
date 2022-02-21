@@ -1,4 +1,4 @@
-package com.urdormain.ch06;
+package com.urdormain.ch06.exc;
 
 import java.sql.Date;
 
