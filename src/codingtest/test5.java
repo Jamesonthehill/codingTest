@@ -25,4 +25,4 @@ public class Soojebi {
 		SuperObj s = new SubObj();
 		s.show();
 	}
-}
+} 
