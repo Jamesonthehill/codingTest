@@ -16,7 +16,7 @@ class SubObj extends SuperObj {
 		super.print();
 	}
 	public void print() {
-		System.out.println("Sub");
+		System.out.print("Sub");
 	}
 }
 
