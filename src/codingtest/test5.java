@@ -12,7 +12,7 @@ class SuperObj {
 }
 
 class SubObj extends SuperObj {
-	public void show() {
+	public void show() { 
 		super.print();
 	}
 	public void print() {
