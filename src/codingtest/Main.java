@@ -17,7 +17,7 @@ public class Main {
     	B = in.nextInt();
     	System.out.println(A/B);
         }
-        } 
+        }  
 
              
     	}
