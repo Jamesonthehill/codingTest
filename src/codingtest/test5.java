@@ -7,7 +7,7 @@ class SuperObj {
 	}
 	public void print() {
 		print();
-		System.out.println("Super");
+		System.out.println("Super");  
 	}
 }
 
