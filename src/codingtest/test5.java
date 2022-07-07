@@ -18,7 +18,7 @@ class SubObj extends SuperObj {
 	public void print() {
 		System.out.print("Sub");
 	} 
-}
+} 
 
 public class Soojebi {
 	public static void main(String[] args) {
