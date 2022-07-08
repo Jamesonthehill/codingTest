@@ -20,7 +20,7 @@ class SubObj extends SuperObj {
 	} 
 } 
 
-public class Soojebi {
+public class Soojebi { 
 	public static void main(String[] args) {
 		SuperObj s = new SubObj();
 		s.show();
