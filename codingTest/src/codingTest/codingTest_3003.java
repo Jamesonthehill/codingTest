@@ -69,7 +69,7 @@ public class codingTest_3003 {
 //		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		int king = 1;
+		int king = 1;	
 		int queen = 1;
 		int rook = 2;
 		int bishop = 2;
