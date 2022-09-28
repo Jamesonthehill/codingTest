@@ -13,7 +13,7 @@ public class codingTest_2884 {
 		int h = in.nextInt();
 		int m = in.nextInt();
 		in.close();
-		
+		 
 		if(m<45) {
 			h--;
 			m = 60 + (m - 45);
