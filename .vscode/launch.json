@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Candies",
+            "request": "launch",
+            "mainClass": "Leetcode.Candies",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode2",
+            "request": "launch",
+            "mainClass": "Leetcode.Leetcode2",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "codingTest.Main",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest2",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest2",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10171",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10171",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10430",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10430",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10807",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10807",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10871",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10871",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10926",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10926",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10950",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10950",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_10952",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_10952",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_14681",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_14681",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_1546",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_1546",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_18108",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_18108",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2438",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2438",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2439",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2439",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2480",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2480",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2525",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2525",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2588",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2588",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2739",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2739",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2753",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2753",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_2884",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_2884",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_3003",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_3003",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_3052",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_3052",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_5597",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_5597",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_5597_2",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_5597_2",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_8393",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_8393",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "codingTest_9498",
+            "request": "launch",
+            "mainClass": "codingTest.codingTest_9498",
+            "projectName": "codingTest_4288e7c8"
+        }
+    ]
+}
