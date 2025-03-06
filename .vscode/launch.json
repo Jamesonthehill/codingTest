@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Candies",
+            "request": "launch",
+            "mainClass": "Candies",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
