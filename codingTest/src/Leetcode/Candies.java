@@ -13,7 +13,7 @@ class Solution {
         for (int candy : candies){
             list.add(candy + extraCandies >= maxCandies);
         }
-
+        
 
         return list;
     }
