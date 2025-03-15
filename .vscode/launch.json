@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assistance",
+            "request": "launch",
+            "mainClass": "Assistance",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
+            "name": "Dataset",
+            "request": "launch",
+            "mainClass": "Dataset",
+            "projectName": "codingTest_4288e7c8"
+        },
+        {
+            "type": "java",
             "name": "Candies",
             "request": "launch",
             "mainClass": "Candies",
